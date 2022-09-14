@@ -1,4 +1,4 @@
-#ACCSharedMemory
+# ACCSharedMemory
 
 ACCSharedMemory is a project containing C++ code that uses pybind11 in order to make a python package.
 The main goal of the package is to directly accessing telemetry data from the shared memory of the game 
