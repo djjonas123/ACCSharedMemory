@@ -1,4 +1,10 @@
-#
+#ACCSharedMemory
+
+ACCSharedMemory is a project containing C++ code that uses pybind11 in order to make a python package.
+The main goal of the package is to directly accessing telemetry data from the shared memory of the game 
+Assetto Corsa Competzione (ACC). This live data can then be used further for anything the user wants like 
+for example a user interface which directly shows all your live actions while on the racetrack.
+
 
 ### Prerequisites
 - C++ 17 windows 10 development environment
